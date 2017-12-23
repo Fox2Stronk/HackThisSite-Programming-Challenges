@@ -9,4 +9,4 @@ You have 15 seconds time to send the solution.
 
 >OPENCV2
 
->GCC
+>C++ Compiler
